@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brad
-- 👀 Cyber threat detection and investigative infastructure analysis are the core of my passion for Cybersecurity.
+- 👀 Cyber threat detection and investigative forensic analysis are the core of my passion for Cybersecurity.
 - 🌱 I’m currently learning the frameworks and processes to tailor my tool kit to current threats in the IT sector.
 - 💞️ I’m looking to invest in my learning while working to resolve problems with a broad & varied tool kit.
 - 📫 To contact me about projects or get questions answered, Davidson0757@gmail.com is the best contact. 
